@@ -15,5 +15,6 @@ $this->registerJsFile('@web/js/google_map_view_users.js', ['depends' => 'yii\web
 
     </div>
 
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.11&sensor=false" type="text/javascript"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=<?= Yii::$app->params['mapApiKey'] ?>v=3.11&sensor=false"
+            type="text/javascript"></script>
 </div>
