@@ -1,3 +1,8 @@
+ABOUT PROJECT
+-------------------
+This is a simple project which can add users to DB and print them on google map.
+File install.md contains information how to install project.
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
