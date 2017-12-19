@@ -120,5 +120,6 @@ a.desc:after {
 }
 
 .map-user-info {
+    word-wrap: break-word;
     width: 100%;
 }
